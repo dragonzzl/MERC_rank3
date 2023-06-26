@@ -1,5 +1,5 @@
 # MERC_rank3
-该仓库主要描述了CCAC2023多模态对话情绪识别评测第3名的实现过程
+该仓库主要描述了CCAC2023多模态对话情绪识别评测第3名的实现过程，任务详细描述请参考评测官方github链接：<br>https://github.com/AIM3-RUC/MERC_Challenge_CCAC2023
 ## 1、文件夹结构
 MERC_rank3
 - M3ED_features:该目录保存提取的M3ED多模态特征和测试集特征
