@@ -17,7 +17,7 @@ MERC_rank3
 * numpy 1.21.6
 * scikit-learn 0.23.1
 ## 3、特征文件及模型文件链接
-百度云链接：https://pan.baidu.com/s/17XL0Zbnath_-obUsHhYynA          提取码：1202<br>
+百度云链接：https://pan.baidu.com/s/1LTuCOC_sC1kMhTAUwY-xLA         提取码：3412<br>
 下载后解压，下面两个特征文件放入M3ED_features文件夹下：
 ```
 AIS10_norm-Vsent_avg_affectdenseface-Lsent_cls_ernie_xbase_chinese4chmed.pkl
